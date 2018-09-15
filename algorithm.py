@@ -23,6 +23,5 @@ def main():
     print("The bowler's average is: ", average)
     print("The bowler's handicap is: ", handicap)
 
-    
 main()
     
